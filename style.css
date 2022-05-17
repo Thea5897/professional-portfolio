@@ -381,4 +381,8 @@ footer {
   .first_section {
     height: 60vh;
   }
+
+  .menu {
+    padding: 0;
+  }
 }
